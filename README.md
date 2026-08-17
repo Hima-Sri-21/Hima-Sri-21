@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hima-Sri-Naga-Sivani-Guntha
 <!--
   GITHUB PROFILE README
   Replace all [BRACKETED] placeholders with your info before publishing.
